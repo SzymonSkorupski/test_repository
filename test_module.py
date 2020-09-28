@@ -1,5 +1,8 @@
 print("Hello World!")
 print("New line added!")
 print("Another new line after ignoring idea file.")
-//dIFFERENT COMMENT
-//comment added
+// No longer need comments
+def function2():
+    pass
+
+
